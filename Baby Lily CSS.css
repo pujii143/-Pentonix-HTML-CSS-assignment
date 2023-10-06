@@ -1,0 +1,58 @@
+/* CSS for the page layout */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f0f0f0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .case-info {
+    margin-bottom: 20px;
+  }
+  
+  .case-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .case-details {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
+  .resources {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
+  .baby-info {
+    font-size: 16px;
+  }
+  
+  /* Styling for the black circle (⚫) */
+  .black-circle {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    background-color: #000;
+    border-radius: 50%;
+  }
+  
+  /* CSS for the navigation menu (if needed) */
+  .navigation {
+    /* Add your navigation styles here */
+  }
+  
+  /* Add any additional styles or elements as needed for your specific design */
+  
